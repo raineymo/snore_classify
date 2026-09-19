@@ -1,0 +1,6 @@
+# Compiled bytecode
+__pycache__/
+*.pyc
+
+# Local project memory / agent data (not source)
+.workbuddy/
